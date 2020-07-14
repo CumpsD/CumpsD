@@ -1,0 +1,99 @@
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" type="text/css" />
+  
+  <style>
+    html, body {
+      padding: 0;
+      margin: 0;
+    }
+
+    body {
+      font: normal 75% Arial, Helvetica, sans-serif;
+    }
+
+    #particles {
+      background-color: #000;
+      width: 100%;
+    }
+
+    .panel {
+      display: block;
+      font-family: 'Source Sans Pro';
+      font-size: 1.3em;
+      position: absolute;
+      z-index: 10;
+      width: 230px;
+      /* height: 220px; */
+      background: #eee;
+      top: 50%;
+      left: 50%;
+      margin: -110px 0 0 -100px;
+      padding: 20px;
+      border-radius: 4px;
+      box-sizing: border-box; 
+      z-index: 100;
+    }
+
+    .panel h1 {
+      font-size: 1.8em;
+      font-weight: 700;
+      text-align: center;
+      color: #222;
+      margin: 0;
+      margin-top: -4px;
+    }
+
+    .panel h2 {
+      font-weight: 400;
+      font-size: .8em;
+      margin-bottom: 16px;
+      text-align: center;
+      line-height: 1.3em;
+    }
+
+    .panel #typewriter {
+      font-weight: 400;
+      font-size: .8em;
+    }
+  </style>
+</head>
+<body>
+  <div id="particles">
+    <div class="panel">
+      <h1>David Cumps</h1>
+      <h2>Polyglot Developer</h2>
+      <div id="typewriter"></div>
+    </div>
+  </div>
+
+  <script>
+    particlesJS.load('particles', 'particles.json', function() {
+      console.log('callback - particles.js config loaded');
+    });
+
+    const instance = new Typewriter('#typewriter', {
+      loop: true
+    });
+
+    instance.typeString("Hello World!")
+      .pauseFor(1000)
+      .deleteAll()
+      .typeString('I am Your-Name.')
+      .pauseFor(1000)
+      .deleteChars(15)
+      .typeString('an aspiring<br>Your-Goal.')
+      .pauseFor(1000)
+      .deleteChars(29)
+      .typeString('currently learning<br>Your-Skill.')
+      .pauseFor(1000)
+      .deleteAll()
+      .typeString('Check out my work at<br>github.com/your-username')
+      .pauseFor(1000)
+      .deleteAll()
+      .start();
+  </script>
+</body>
+</html>
