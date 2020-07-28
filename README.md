@@ -14,7 +14,7 @@ Besides coding in a professional and personal environment, I also tinker with ho
 
 ## ⚡ Skills
 
-I'm able to deal with various technologies. The list below is incomplete, but give you an idea of the fact I am always trying to stay up to date.
+I'm able to deal with various technologies. The list below is incomplete, but gives you an idea of the fact I am always trying to stay up to date.
 
 * C# / F# / .NET Core / ASP.NET Core / EF Core
 * Eventsourcing / CQRS / DDD
