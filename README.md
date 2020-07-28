@@ -6,11 +6,11 @@
 
 ## 🧐 About
 
-You could say my life revolves around technology. Even before I was a teenager I started coding and taking computers apart. The accumulation of this passion has provided me with the advantage of having very broad technological knowledge, allowing me to easier see the bigger picture. When I'm not working for a client or my own company, [exira.com](https://exira.com), I'm tinkering with something geeky for myself, always learning.
+You could say my life revolves around technology. Even before I was a teenager I started coding and taking computers apart. The result of this passion has provided me with the advantage of having very broad technological knowledge, allowing me to easier see the bigger picture. When I'm not working for a client or my own company, [exira.com](https://exira.com), I'm tinkering with something geeky for myself, always learning.
 
 This drive to keep on learning is what made me a polyglot, not limited to a narrow skillset, but able to analyse and apply a broad toolset to any problem. Of course I have a favorite, being the .NET ecosystem, which I picked up around 2001 with the first beta release. Being around it for so long, I've seen its share of issues and quirks, as well as the solutions around it. I believe this is what differentiates a junior from a senior developer, experience from mistakes and problems.
 
-Besides coding in a professional and personal environment, I also tinker with home automation, server racks and network cables, different operating systems, car tuning, various gadgets and many more things which spark my curiosity. 
+Besides coding in a professional and personal environment, I also tinker with home automation, server racks and network cables, different operating systems, car tuning, various gadgets and many more things that spark my curiosity. 
 
 ## ⚡ Skills
 
