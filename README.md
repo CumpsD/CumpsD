@@ -10,8 +10,16 @@ You could say my life revolves around technology. Even before I was a teenager I
 
 This drive to keep on learning is what made me a polyglot, not limited to a narrow skillset, but able to analyse and apply a broad toolset to any problem. Of course I have a favorite, being the .NET ecosystem, which I picked up around 2001 with the first beta release. Being around it for so long, I've seen its share of issues and quirks, as well as the solutions around it. I believe this is what differentiates a junior from a senior developer, experience from mistakes and problems.
 
+Besides coding in a professional and personal environment, I also tinker with home automation, server racks and network cables, car tuning, various gadgets and many more things which spark my curiosity. 
 
+## ⚡ Skills
 
-## ⚡ Technologies
+I'm able to deal with various technologies. The list below is incomplete, but give you an idea of the fact I am always trying to stay up to date.
+
+* C# / .NET Core / ASP.NET Core / EF Core
+* Eventsourcing / CQRS / DDD
+* DevOps (Infrastructure as Code with Terraform)
+
+For a longer list [have a look at my resume site @ cumps.be](https://cumps.be/en/consulting/) or [contact me](mailto:david@cumps.be)
 
 ## 📫 Contact Me
