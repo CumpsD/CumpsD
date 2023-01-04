@@ -2,7 +2,7 @@
 
 # [![Gmail](https://raw.githubusercontent.com/CumpsD/CumpsD/main/mail.svg)](mailto:david@cumps.be) [![Keybase](https://raw.githubusercontent.com/CumpsD/CumpsD/main/keybase.svg)](https://keybase.io/cumpsd) [![Twitter](https://raw.githubusercontent.com/CumpsD/CumpsD/main/twitter.svg)](https://twitter.com/cumpsd) [![LinkedIn](https://raw.githubusercontent.com/CumpsD/CumpsD/main/linkedin.svg)](https://www.linkedin.com/in/cumpsd/) [![GitHub](https://raw.githubusercontent.com/CumpsD/CumpsD/main/github.svg)](https://github.com/cumpsd)
 
-*Freelance .NET Developer | Founder @ [exira.com](https://github.com/exira) | OSS Contributor | Geek | Tech Addict*
+*Freelance .NET Developer | Founder @ [exira.com](https://exira.com) | OSS Contributor | Geek | Tech Addict*
 
 ## 🧐 About
 
